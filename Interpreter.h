@@ -76,7 +76,7 @@ public:
 
 
         //Search for every constant in the query and store them in a vector of pairs.
-        for (unsigned int i = 0; i<predicate.getNumParam(); i++){
+        for ( int i = 0; i<predicate.getNumParam(); i++){
             std::string param = predicate.getParamAtI((i));//For debugging.
             if(predicate.isParamAtIConst(i) == true){
                 constants.push_back(make_pair(i, param));
