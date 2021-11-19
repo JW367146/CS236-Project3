@@ -10,21 +10,11 @@ C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
 Token.h
 C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Token.h
 
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/ColonAutomaton.cpp
-ColonAutomaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/ColonAutomaton.h
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/ColonAutomaton.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/ColonDashAutomaton.cpp
-ColonDashAutomaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/ColonDashAutomaton.h
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/ColonDashAutomaton.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Database.h
+Relation.h
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Relation.h
+map
+-
 
 C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/DatalogProgram.h
 Predicate.h
@@ -36,109 +26,19 @@ set
 string
 -
 
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Add.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Header.h
 
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Comma.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Interpreter.h
+DatalogProgram.h
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/DatalogProgram.h
+Database.h
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Database.h
+StringInts.h
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/StringInts.h
+KeyValues.h
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/KeyValues.h
 
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Comment.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Facts.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-string
--
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_ID.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_L_Paren.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Multiply.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Period.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Q_Mark.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Queries.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-string
--
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_R_Paren.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Rules.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-string
--
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Schemes.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-string
--
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_String.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Lexer.cpp
-Lexer.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Lexer.h
-ColonAutomaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/ColonAutomaton.h
-ColonDashAutomaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/ColonDashAutomaton.h
-FSA_L_Paren.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_L_Paren.h
-FSA_R_Paren.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_R_Paren.h
-FSA_Comma.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Comma.h
-FSA_Period.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Period.h
-FSA_Q_Mark.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Q_Mark.h
-FSA_Add.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Add.h
-FSA_Multiply.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Multiply.h
-FSA_Rules.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Rules.h
-FSA_Facts.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Facts.h
-FSA_Schemes.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Schemes.h
-FSA_Queries.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Queries.h
-FSA_String.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_String.h
-FSA_ID.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_ID.h
-FSA_Comment.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/FSA_Comment.h
-Undefined.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Undefined.h
-cctype
--
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/KeyValues.h
 
 C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Lexer.h
 vector
@@ -172,6 +72,12 @@ vector
 sstream
 -
 
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Relation.h
+Tuple.h
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Tuple.h
+Header.h
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Header.h
+
 C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Rule.h
 Predicate.h
 C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Predicate.h
@@ -180,9 +86,7 @@ sstream
 string
 -
 
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Token.cpp
-Token.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Token.h
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/StringInts.h
 
 C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Token.h
 string
@@ -190,11 +94,7 @@ string
 sstream
 -
 
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Undefined.h
-Automaton.h
-C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Automaton.h
-string
--
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Tuple.h
 
 C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/main.cpp
 Lexer.h
@@ -207,4 +107,6 @@ Token.h
 C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Token.h
 Parser.h
 C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Parser.h
+Interpreter.h
+C:/Users/Joseph Wilson/CLionProjects/CS236 Project3/Interpreter.h
 

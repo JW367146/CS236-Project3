@@ -99,6 +99,45 @@ public:
     }
 
 
+
+    //Lab3 stuff
+    unsigned int numSchemes(){
+        return schemes.size();
+    }
+    std::string schemeIDAtI(int i){
+        return schemes[i]->getID();
+    }
+    unsigned int schemeSizeAtI(int i){
+        return schemes[i]->getNumParam();
+    }
+    std::string getSchemeParamAtIJ(int i , int j){
+
+        return schemes[i]->getParamAtI(j);
+    }
+
+
+    unsigned int numFacts(){
+        return facts.size();
+    }
+    std::string factIDAtI(int i){
+        return facts[i]->getID();
+    }
+    unsigned int factSizeAtI(int i){
+        return facts[i]->getNumParam();
+    }
+    std::string getFactParamAtIJ(int i , int j){
+
+        return facts[i]->getParamAtI(j);
+    }
+
+    unsigned int numQueries(){
+        return queries.size();
+    }
+
+    Predicate queryAtI(int i){
+        // I don't know how this works but it sends the right predicate
+        return *queries[i];
+    }
 };
 
 

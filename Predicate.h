@@ -60,6 +60,9 @@ public:
         return myPredicate[index]->getParam();
     }
 
+    bool isParamAtIConst(int i){
+        return myPredicate[i]->isConstant();
+    }
 };
 
 

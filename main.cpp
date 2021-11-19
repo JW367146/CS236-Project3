@@ -3,6 +3,7 @@
 #include "fstream"
 #include "Token.h"
 #include "Parser.h"
+#include "Interpreter.h"
 
 using namespace std;
 
@@ -78,16 +79,26 @@ int main(int argc, char** argv) {
     //now we need to parse the tokens
     bool parsed = parser->parse();
 
-    if(parsed){
-        cout<< "Success!\n";
-        cout<< parser->datalogProgram.toString();
-    }
-    if(!parsed){
-        cout << "Failure!\n  ";
-        cout<< parser->getException();
-    }
+
+//    //Lab2 Output
+//    if(parsed){
+//        cout<< "Success!\n";
+//        cout<< parser->datalogProgram.toString();
+//    }
+//    if(!parsed){
+//        cout << "Failure!\n  ";
+//        cout<< parser->getException();
+//    }
 
 
+
+
+    //Start of lab 3 stuff
+
+    Interpreter interpreter = Interpreter(parser->datalogProgram);
+    interpreter.evalQueries();
+
+    cout << interpreter.toString();
 
     delete lexer;
     return 0;

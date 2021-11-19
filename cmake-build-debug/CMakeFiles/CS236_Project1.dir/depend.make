@@ -37,12 +37,19 @@ CMakeFiles\CS236_Project1.dir\Token.cpp.obj: ..\Token.cpp
 CMakeFiles\CS236_Project1.dir\Token.cpp.obj: ..\Token.h
 
 CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\Automaton.h
+CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\Database.h
 CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\DatalogProgram.h
+CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\Header.h
+CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\Interpreter.h
+CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\KeyValues.h
 CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\Lexer.h
 CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\Parameter.h
 CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\Parser.h
 CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\Predicate.h
+CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\Relation.h
 CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\Rule.h
+CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\StringInts.h
 CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\Token.h
+CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\Tuple.h
 CMakeFiles\CS236_Project1.dir\main.cpp.obj: ..\main.cpp
 
