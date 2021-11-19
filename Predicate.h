@@ -52,7 +52,7 @@ public:
     std::string getID(){
         return id;
     }
-    int getNumParam(){
+    unsigned int getNumParam(){
         return myPredicate.size();
     }
 

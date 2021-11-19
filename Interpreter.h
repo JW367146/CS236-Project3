@@ -140,7 +140,6 @@ public:
             std::string queryResult = evaluated.result();
             std::string relation = evaluated.toString();
             outString << query << queryResult << relation;
-            int a = 3;
 
         }
        // int a = datalogProgram.numQueries();

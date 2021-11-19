@@ -80,15 +80,15 @@ int main(int argc, char** argv) {
     bool parsed = parser->parse();
 
 
-//    //Lab2 Output
-//    if(parsed){
+    //Lab2 Output
+    if(parsed){
 //        cout<< "Success!\n";
 //        cout<< parser->datalogProgram.toString();
-//    }
-//    if(!parsed){
+    }
+    if(!parsed){
 //        cout << "Failure!\n  ";
 //        cout<< parser->getException();
-//    }
+    }
 
 
 
